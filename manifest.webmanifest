@@ -1,0 +1,23 @@
+{
+  "name": "Bloody Pressure",
+  "short_name": "Bloody Pressure",
+  "description": "Logboek voor je bloeddruk, klachten en leefstijl. Alles blijft lokaal op je eigen apparaat.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8f7",
+  "theme_color": "#9c4146",
+  "lang": "nl",
+  "categories": ["health", "medical", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Vandaag invullen", "short_name": "Vandaag", "url": "./#/today", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
