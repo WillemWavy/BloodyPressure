@@ -1,6 +1,6 @@
 # Bloody Pressure
 
-Web-app als **lichamelijk logboek voor mensen met hoge bloeddruk**. Gebaseerd op [Emo Track / Emodagboek](https://github.com/WillemWavy/Emodagboek), maar gericht op bloeddruk, klachten en leefstijl.
+Web-app als **lichamelijk logboek voor mensen met hoge bloeddruk**.
 
 **Open de app:** https://willemwavy.github.io/BloodyPressure/
 
